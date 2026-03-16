@@ -4,11 +4,7 @@ The modular toolkit for building dapps with type-safe contract interactions, plu
 
 ## Core Packages
 
-- [**trezo (CLI)**](https://www.npmjs.com/package/trezo): A command-line tool for quickly scaffolding and setting up Trezo project templates.
-- [**@trezo/evm**](https://www.npmjs.com/package/@trezo/evm): A specialized, type-safe orchestration layer for EVM blockchain integration.
-- **@trezo/starknet**: _coming soon_ ⛭
-- **@trezo/solana**: _coming soon_ ⛭
-- **@trezo/sui**: _coming soon_ ⛭
+Trezo’s full list of packages and details can be found in the **[Trezo Packages repository](https://github.com/trezo-labs/packages)**.
 
 ## Design Philosophy
 
